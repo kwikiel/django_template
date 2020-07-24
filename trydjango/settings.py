@@ -25,7 +25,7 @@ SECRET_KEY = 'no^_4w)9yfl6#c-jj=+6yl^if&zk&62k$hvq5qwdt50f^ouuep'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['enigmatic-escarpment-71067.herokuapp.com']
 
 
 # Application definition
